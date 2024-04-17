@@ -3,6 +3,5 @@ WORKDIR app
 COPY . .
 RUN npm install
 RUN npm run test
-RUN CI=true npm test
 EXPOSE 8000
 CMD ["node","app.js"]
