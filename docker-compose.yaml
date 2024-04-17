@@ -1,7 +1,6 @@
-version: '3.9'
-
-services:
-  jenkins-container:
-    build: .
-    ports:
-      - "8000:8000"
+version : "3.3"
+services :
+  web :
+     image : saaddevops/node-app-test-new:latest
+     ports :
+         - "8000:8000"
