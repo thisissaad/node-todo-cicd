@@ -1,7 +1,7 @@
 version: '3.9'
 
 services:
-  web:
-    image: "saaddevops/node-app-test-new:latest"
+  jenkins-container:
+    build: .
     ports:
       - "8000:8000"
