@@ -119,8 +119,17 @@
 
 10) At last run the pipeline and after sometime your code is deployed using DevSecOps.
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/f566d980-82ee-4ad6-9ff3-cb970885560e)
 #
+   ![jenkins-passed](https://github.com/thisissaad/node-todo-cicd/assets/162448656/d83ca938-2c6c-4620-8d3f-9021ec2aa4b8)
+
+#
+
+   ![dependency-check](https://github.com/thisissaad/node-todo-cicd/assets/162448656/6c738133-4671-4f89-9403-28f7163869f5)
+
+#
+
+   ![sonarqube-scan](https://github.com/thisissaad/node-todo-cicd/assets/162448656/f5241a1d-29cd-468b-9f0c-fff34fe0b7fd)
+
 
 
 
