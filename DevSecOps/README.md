@@ -1,4 +1,4 @@
-# End to End DevSecOps Project for DevOps Engineers
+# End to End DevSecOps Project
 
 ### In this project, we will learn about  DevOps and DevSecOps tools in one project:
 
